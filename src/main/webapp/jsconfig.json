@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "target": "ES6"
+    },
+    "exclude": ["**/*.min.js","workbox*.js"],
+    "include": ["js/**/*.js","mxgraph/**/*.js"],
+    "checkJs":true
+  }
